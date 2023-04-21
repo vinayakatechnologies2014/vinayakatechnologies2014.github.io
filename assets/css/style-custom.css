@@ -109,6 +109,7 @@
 .recepie_area .single_recepie .recepie_thumb {
     width: 150px;
     height: 150px;
+    border-radius: unset;
 }
 .recepie_area .single_recepie .recepie_thumb img {
     height: 150px;
@@ -154,14 +155,23 @@ footer .footer-vertical-nav.bottom-footer li a:hover {
 .recepie_details_area .recepies_thumb img {
     width: auto;
     height: 250px;
+    transform: scale(1);
+    -webkit-transition: transform 0.5s ease-in-out;
+    -moz-transition: transform 0.5s ease-in-out;
+    -ms-transition: transform 0.5s ease-in-out;
 }
-/* .recepie_details_area .recepies_thumb img:hover {
-    scale: 1.5;
-    transition: transform 0.4s;
+.recepie_details_area .recepies_thumb img:hover {
+    transform: scale(1.2);
+    -webkit-transition: transform 0.5s ease-in-out;
+    -moz-transition: transform 0.5s ease-in-out;
+    -ms-transition: transform 0.5s ease-in-out;
 }
-.recepie_details_area .recepies_thumb img:focus-visible {
+/* .recepie_details_area .recepies_thumb img:focus-visible {
     outline: -webkit-focus-ring-color auto 1px;
 } */
+.recepie_details_area .recepies_info .resepies_details ul li p strong {
+    font-weight: 400;
+}
 .recepie_videoes_area {
     padding: unset;
 }
