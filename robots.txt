@@ -3,6 +3,7 @@ Allow: /
 Allow: /privacy-policy.html
 Allow: /terms-and-conditions.html
 Allow: /about.html
+Allow: /alcohol/j-noon-india-i-red-wine.html
 Allow: /alcohol/amrut-peated-cask-strength-malt.html
 Allow: /alcohol/paul-john-brilliance.html
 Allow: /alcohol/rampur-double-cask-single-malt-whisky.html
@@ -11,6 +12,7 @@ Allow: /alcohol/maya-pistola-tequila-rosa-select.html
 Allow: /alcohol/old-monk-xxx-dark-rum.html
 Allow: /alcohol/hapusa-himalayan-dry-gin.html
 Allow: /alcohol/paul-john-xo-brandy.html
+Allow: /alcohol/carlsberg-elephant-strong.html
 Allow: /category/whiskey.html
 Allow: /category/vodka.html
 Allow: /category/tequila.html
