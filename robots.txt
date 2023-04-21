@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /privacy-policy.html
+Allow: /terms-and-conditions.html
+Allow: /about.html
+Allow: /alcohol/amrut-peated-cask-strength-malt.html
+Allow: /alcohol/paul-john-brilliance.html
+Allow: /alcohol/rampur-double-cask-single-malt-whisky.html
+Allow: /alcohol/smoke-vodka-aniseed.html
+Allow: /category/whiskey.html
+Allow: /category/vodka.html
+Allow: /category/tequila.html
+Allow: /category/gin.html
+Allow: /category/rum.html
+Allow: /category/brandy.html
+Allow: /category/wine.html
+Allow: /category/beer.html
+
+Sitemap: https://alcohol.peoplesblog.co.in/sitemap.xml
+  
