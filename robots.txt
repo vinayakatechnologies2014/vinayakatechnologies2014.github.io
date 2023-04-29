@@ -4,9 +4,17 @@ Allow: /privacy-policy.html
 Allow: /terms-and-conditions.html
 Allow: /about.html
 Allow: /alcohol/j-noon-india-i-red-wine.html
+Allow: /alcohol/roulette-premium-whisky.html
+Allow: /alcohol/rockford-fine-and-rare-whisky.html
+Allow: /alcohol/fireball-cinnamon-whisky.html
+Allow: /alcohol/maqintosh-blue-reserve.html
+Allow: /alcohol/woodburns-contemporary-indian-whisky.html
 Allow: /alcohol/amrut-peated-cask-strength-malt.html
 Allow: /alcohol/paul-john-brilliance.html
 Allow: /alcohol/rampur-double-cask-single-malt-whisky.html
+Allow: /alcohol/romanov-premium-vodka.html
+Allow: /alcohol/smirnoff-vodka.html
+Allow: /alcohol/magic-moments-pure-grain.html
 Allow: /alcohol/smoke-vodka-aniseed.html
 Allow: /alcohol/maya-pistola-tequila-rosa-select.html
 Allow: /alcohol/old-monk-xxx-dark-rum.html
