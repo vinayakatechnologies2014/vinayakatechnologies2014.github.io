@@ -18,6 +18,12 @@ Allow: /alcohol/magic-moments-pure-grain.html
 Allow: /alcohol/smoke-vodka-aniseed.html
 Allow: /alcohol/maya-pistola-tequila-rosa-select.html
 Allow: /alcohol/old-monk-xxx-dark-rum.html
+Allow: /alcohol/tamras-gin.html
+Allow: /alcohol/samsara-lemon-and-elderflower.html
+Allow: /alcohol/stranger-and-sons-trading-tides.html
+Allow: /alcohol/doja-gin.html
+Allow: /alcohol/jaisalmer-craft-gin.html
+Allow: /alcohol/malhar-citrus-indian-craft-gin.html
 Allow: /alcohol/hapusa-himalayan-dry-gin.html
 Allow: /alcohol/paul-john-xo-brandy.html
 Allow: /alcohol/carlsberg-elephant-strong.html
