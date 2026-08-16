@@ -1,83 +1,39 @@
-# =========================
-# GLOBAL RULES
-# =========================
 User-agent: *
-Disallow: /pagefind
-Disallow: /cdn-cgi/
+Allow: /
+Allow: /about-us/
+Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
+Allow: /balochistan/
+Allow: /bangalore/
+Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
+Allow: /business/
+Allow: /buzz/
+Allow: /contact-us/
+Allow: /developing/
+Allow: /disclaimer/
+Allow: /entertainment/
+Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
+Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
+Allow: /fact-checked/
+Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
+Allow: /india/
+Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
+Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
+Allow: /major-ott-platform-planning-new-subscription-plan-india/
+Allow: /opinion/
+Allow: /politics/
+Allow: /privacy-policy/
+Allow: /public-buzz/
+Allow: /rumor/
+Allow: /rumors-major-smartphone-launch-begin-circulating-online/
+Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
+Allow: /social-media/
+Allow: /sports/
+Allow: /technology/
+Allow: /terms-conditions/
+Allow: /verified/
+Allow: /weather/
+Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
+Allow: /why-everyone-talking-about-bengalurus-next-big-technology-event/
+Allow: /world/
 
-# =========================
-# BLOCK INTERNAL / SYSTEM PATHS
-# =========================
-Disallow: /core/
-Disallow: /themes/
-Disallow: /modules/
-Disallow: /profiles/
-Disallow: /vendor/
-Disallow: /includes/
-
-# =========================
-# BLOCK USELESS / DUPLICATE PAGES
-# =========================
-Disallow: /search
-Disallow: /user
-Disallow: /admin
-Disallow: /node/add
-
-# Query parameters (avoid duplicate content)
-Disallow: /*?*
-
-# =========================
-# ALLOW IMPORTANT ASSETS (optional but good)
-# =========================
-Allow: /*.css$
-Allow: /*.js$
-Allow: /*.png$
-Allow: /*.jpg$
-Allow: /*.jpeg$
-Allow: /*.webp$
-Allow: /*.svg$
-
-# =========================
-# AI / SCRAPER BOT CONTROL
-# =========================
-
-# OpenAI
-User-agent: GPTBot
-Disallow:
-
-# Google AI
-User-agent: Google-Extended
-Disallow:
-
-# Common AI / scrapers (block if you want stricter control)
-User-agent: CCBot
-Disallow: /
-
-User-agent: Bytespider
-Disallow: /
-
-User-agent: Amazonbot
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: PerplexityBot
-Disallow: /
-
-User-agent: YouBot
-Disallow: /
-
-# =========================
-# BAD / AGGRESSIVE BOTS
-# =========================
-User-agent: AhrefsBot
-Disallow:
-
-User-agent: SemrushBot
-Disallow:
-
-# =========================
-# SITEMAP
-# =========================
-Sitemap: https://peoplesblog.co.in/sitemap.xml
+Sitemap: https://buzz.peoplesblog.co.in/sitemap.xml
