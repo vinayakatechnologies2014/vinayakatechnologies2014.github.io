@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /pagefind
+Disallow: /cdn-cgi/
 Allow: /
 Allow: /about-us/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
