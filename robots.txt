@@ -12,7 +12,6 @@ Allow: /buzz/
 Allow: /contact-us/
 Allow: /developing/
 Allow: /disclaimer/
-Allow: /entertainment/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
 Allow: /fact-checked/
@@ -29,7 +28,6 @@ Allow: /rumor/
 Allow: /rumors-major-smartphone-launch-begin-circulating-online/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
-Allow: /sports/
 Allow: /technology/
 Allow: /terms-conditions/
 Allow: /verified/

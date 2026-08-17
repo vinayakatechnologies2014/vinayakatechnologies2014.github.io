@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://buzz.peoplesblog.co.in/</loc>
-  <lastmod>2026-08-15T18:31:02+05:30</lastmod>
+  <lastmod>2026-08-17T11:37:34+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
  </url>
@@ -86,12 +86,6 @@
   <priority>0.1</priority>
  </url>
  <url>
-  <loc>https://buzz.peoplesblog.co.in/buzz/</loc>
-  <lastmod>2026-08-15T18:31:02+05:30</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.1</priority>
- </url>
- <url>
   <loc>https://buzz.peoplesblog.co.in/contact-us/</loc>
   <lastmod>2026-08-16T12:39:56+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -165,18 +159,6 @@
  </url>
  <url>
   <loc>https://buzz.peoplesblog.co.in/business/</loc>
-  <lastmod>2026-08-07T22:30:46+05:30</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
- </url>
- <url>
-  <loc>https://buzz.peoplesblog.co.in/entertainment/</loc>
-  <lastmod>2026-08-07T22:30:46+05:30</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
- </url>
- <url>
-  <loc>https://buzz.peoplesblog.co.in/sports/</loc>
   <lastmod>2026-08-07T22:30:46+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
