@@ -3,6 +3,7 @@ Disallow: /pagefind
 Disallow: /cdn-cgi/
 Allow: /
 Allow: /about-us/
+Allow: /afghanistan/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
 Allow: /balochistan/
 Allow: /bangalore/
@@ -16,6 +17,7 @@ Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
 Allow: /fact-checked/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
+Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
