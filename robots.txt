@@ -10,6 +10,9 @@ Allow: /bangalore/
 Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
 Allow: /business/
 Allow: /contact-us/
+Allow: /court/
+Allow: /delhi-police-defends-facial-recognition-use-jantar-mantar-what-did-police-tell-supreme-court/
+Allow: /delhi/
 Allow: /developing/
 Allow: /disclaimer/
 Allow: /economy/
@@ -24,6 +27,7 @@ Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /opinion/
+Allow: /police/
 Allow: /politics/
 Allow: /privacy-policy/
 Allow: /public-buzz/
