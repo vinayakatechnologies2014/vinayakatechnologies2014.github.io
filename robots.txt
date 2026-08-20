@@ -7,6 +7,7 @@ Allow: /afghanistan/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
 Allow: /balochistan/
 Allow: /bangalore/
+Allow: /bengaluru-pothole-our-street-bbmp-gba-who-paid-who-approved-and-who-responsible/
 Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
 Allow: /business/
 Allow: /contact-us/
