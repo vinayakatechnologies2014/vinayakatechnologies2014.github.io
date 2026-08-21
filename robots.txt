@@ -20,6 +20,7 @@ Allow: /economy/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
 Allow: /fact-checked/
+Allow: /government/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
 Allow: /india/
@@ -32,6 +33,7 @@ Allow: /police/
 Allow: /politics/
 Allow: /privacy-policy/
 Allow: /public-buzz/
+Allow: /rumor-will-people-india-have-pay-use-upi-heres-what-governments-latest-move-means/
 Allow: /rumor/
 Allow: /rumors-major-smartphone-launch-begin-circulating-online/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
