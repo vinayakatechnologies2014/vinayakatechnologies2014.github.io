@@ -19,6 +19,7 @@ Allow: /disclaimer/
 Allow: /economy/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
+Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
 Allow: /fact-checked/
 Allow: /government/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
