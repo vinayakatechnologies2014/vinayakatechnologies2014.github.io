@@ -116,6 +116,12 @@
   <priority>1.0</priority>
  </url>
  <url>
+  <loc>https://buzz.peoplesblog.co.in/indias-growing-dependence-russian-oil-becoming-energy-security-risk/</loc>
+  <lastmod>2026-08-23T10:33:18+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
   <loc>https://buzz.peoplesblog.co.in/about-us/</loc>
   <lastmod>2026-08-16T12:43:12+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -268,6 +274,12 @@
  <url>
   <loc>https://buzz.peoplesblog.co.in/government/</loc>
   <lastmod>2026-08-21T10:30:57+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/russia/</loc>
+  <lastmod>2026-08-23T10:19:40+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>
