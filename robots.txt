@@ -29,10 +29,13 @@ Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
+Allow: /justice/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
+Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /nagaland/
 Allow: /opinion/
+Allow: /parole-and-furlough-india-where-should-law-draw-line/
 Allow: /police/
 Allow: /politics/
 Allow: /privacy-policy/
