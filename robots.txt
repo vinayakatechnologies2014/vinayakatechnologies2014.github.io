@@ -16,6 +16,7 @@ Allow: /court/
 Allow: /delhi-police-defends-facial-recognition-use-jantar-mantar-what-did-police-tell-supreme-court/
 Allow: /delhi/
 Allow: /developing/
+Allow: /dharmasthala/
 Allow: /disclaimer/
 Allow: /economy/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
@@ -31,8 +32,10 @@ Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
 Allow: /justice/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
+Allow: /karnataka/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
+Allow: /movie/
 Allow: /nagaland/
 Allow: /opinion/
 Allow: /parole-and-furlough-india-where-should-law-draw-line/
@@ -53,5 +56,6 @@ Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
 Allow: /why-everyone-talking-about-bengalurus-next-big-technology-event/
 Allow: /world/
+Allow: /yash-faces-backlash-over-dharmasthala-visit-sowjanya-activists-call-toxic-boycott/
 
 Sitemap: https://buzz.peoplesblog.co.in/sitemap.xml
