@@ -49,6 +49,7 @@ Allow: /rumors-major-smartphone-launch-begin-circulating-online/
 Allow: /russia/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
+Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
 Allow: /technology/
 Allow: /terms-conditions/
 Allow: /verified/
