@@ -61,7 +61,7 @@
 <link rel="icon" href="/sites/default/files/buzz-favicon.png" type="image/png" />
 
     <title>Disclaimer</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_HL6EXNee1NNJI0Hx4EVns8hvaqSD6bE5_1qnbUyqRuA.css?delta=0&amp;language=en-gb&amp;theme=drupal8_zymphonies_theme&amp;include=eJx9jkEOwzAIBD_k1tf-xsIxaSOBsQxO6ry-SVP1llxYtMyKjW1dw1glG-bknyQRyMXd1FaKVPM_Dbt5XKxCVgJD_99cqq0APcLaubwkT6jBXsjoo4jpxpVzZCR8K00J6wWzNYQFVfji11H_NggXyZhNz1FlqMaYmzqCLs1CmnSQGWv3W3YQctrVkH0ERTdPuKj_zjtLaoQfznx-IA" />
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_zD86TJ2Fy_YxhHXAekmDJ1xI10Pdof10O4FeOzgMQeA.css?delta=0&amp;language=en-gb&amp;theme=drupal8_zymphonies_theme&amp;include=eJx9jkEOwzAIBD_k1tf-xsIxaSOBsQxO6ry-SVP1llxYtMyKjW1dw1glG-bknyQRyMXd1FaKVPM_Dbt5XKxCVgJD_99cqq0APcLaubwkT6jBXsjoo4jpxpVzZCR8K00J6wWzNYQFVfji11H_NggXyZhNz1FlqMaYmzqCLs1CmnSQGWv3W3YQctrVkH0ERTdPuKj_zjtLaoQfznx-IA" />
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_aPPxX7y_JCUDgmSl5wauHIvYtecJUyGv3khGTm4pwFo.css?delta=1&amp;language=en-gb&amp;theme=drupal8_zymphonies_theme&amp;include=eJx9jkEOwzAIBD_k1tf-xsIxaSOBsQxO6ry-SVP1llxYtMyKjW1dw1glG-bknyQRyMXd1FaKVPM_Dbt5XKxCVgJD_99cqq0APcLaubwkT6jBXsjoo4jpxpVzZCR8K00J6wWzNYQFVfji11H_NggXyZhNz1FlqMaYmzqCLs1CmnSQGWv3W3YQctrVkH0ERTdPuKj_zjtLaoQfznx-IA" />
 
     <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2683569506254139"></script>
@@ -146,8 +146,8 @@
     
       
             <div><p><button class="buzz-support-btn" type="button">
-  Support Buzz
-</button></p></div>
+          Support Buzz — ₹10 or more
+        </button></p></div>
       
   </div>
 
@@ -245,7 +245,7 @@
   
       <h2>Recent</h2>
     
-      <div class="views-element-container"><div class="js-view-dom-id-62f182c9ed10566911e17cb4615ffc9f036aff6ffa2aa1347afa906740fd2117">
+      <div class="views-element-container"><div class="js-view-dom-id-e237da5bf9c7090d9adcb7146cb846ead7ef37599731725a22fd4c747a398a40">
   
   
   
@@ -468,7 +468,7 @@
         <a href="/sitemap.xml" data-drupal-link-system-path="sitemap.xml">Sitemap</a>
               </li>
                 <li class="buzz-support-btn menu-item">
-        <button type="button">Support Buzz</button>
+        <button type="button">Support Buzz — ₹10 or more</button>
               </li>
         </ul>
   
@@ -499,7 +499,10 @@
     </button>
 
     <div class="buzz-support-content">
-      <div class="buzz-support-label">Support Buzz</div>
+
+      <div class="buzz-support-label">
+        Support Buzz
+      </div>
 
       <h2 id="buzzSupportTitle">
         Help Us Keep Buzz Going
@@ -514,31 +517,82 @@
       </div>
 
       <p class="buzz-support-instruction">
-        Scan the QR code using any UPI app, including BHIM, GPay, PhonePe or Paytm.
+        Choose how you'd like to support Buzz.
       </p>
 
-      <div class="buzz-qr-wrapper">
+      <div class="buzz-upi-primary">
+
+        <a
+          class="buzz-upi-pay-button"
+          href="upi://pay?pa=karthikkumardk@upi&amp;pn=Karthik%20Kumar%20D%20K"
+        >
+          <span class="buzz-upi-pay-label">
+            Pay via UPI
+          </span>
+
+          <span class="buzz-upi-pay-id">
+            karthikkumardk@upi
+          </span>
+        </a>
+
+      </div>
+
+      <div class="buzz-qr-divider">
+        <span>or scan QR code</span>
+      </div>
+
+      <div
+        class="buzz-qr-wrapper"
+        id="buzzQrWrapper"
+      >
+
         <img
           src="/sites/default/files/2026-08/karthikkumardk.jpeg"
           alt="Support Buzz via UPI"
         >
+
+        <div class="buzz-qr-overlay">
+
+          <button
+            type="button"
+            class="buzz-show-qr"
+            id="buzzShowQr"
+          >
+            Show QR Code
+          </button>
+
+        </div>
+
       </div>
 
       <div class="buzz-upi-details">
+
         <div>
           <span>UPI ID</span>
-          <strong>karthikkumardk@upi</strong>
+
+          <strong>
+            <a
+              href="upi://pay?pa=karthikkumardk@upi&amp;pn=Karthik%20Kumar%20D%20K"
+            >
+              karthikkumardk@upi
+            </a>
+          </strong>
         </div>
 
         <div>
           <span>Payee</span>
-          <strong>Karthik Kumar D K</strong>
+
+          <strong>
+            Karthik Kumar D K
+          </strong>
         </div>
+
       </div>
 
       <p class="buzz-upi-warning">
         Please verify the payee name before completing your payment.
       </p>
+
     </div>
   </div>
 </div>
@@ -598,7 +652,7 @@
     
     <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/20","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en-gb"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9kNEOwiAMRX8I5dW_IWV0jqRQQssm-3rRGRMf3Evb3J7m3tS3fXdz5ayYg4UgmAWN_1HvxB7oEKWVwlXtp7uXeGy0QhYCRfudTKitAN3c3lNZOEcUpwsmtJ5ZZXDlPzITPoRiwHrCjISwoXA68TriXyZOhTNmlf-oJKiaMDcxBJ2buhBl4hVrt-N2YjLSRTFZD-NNa8RN7LteE4dG-AT00obo","theme":"drupal8_zymphonies_theme","theme_token":null},"ajaxTrustedUrl":[],"user":{"uid":0,"permissionsHash":"91e3d0f7a5ed48309c3b8ccb9c74980adf7e7b12900db7b22bd97c89feeb0705"}}</script>
 <script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
-<script src="/sites/default/files/js/js_4JpKZG2YwZP70uyCBs0xOVR7gKEbgM3-f40qgNWou3Y.js?scope=footer&amp;delta=1&amp;language=en-gb&amp;theme=drupal8_zymphonies_theme&amp;include=eJx1jsEKAjEMRH9opVf_pqQ26y6kSUhS0H69SkXw0NMMb95hSh8j7yYcyDVBdWTHrfzRO0kBmtC7qlikb-YPnEsYsBMEpl_bqnUFuubxbHoIn-g5DmyYikj429O1shM-nM6Ktnbms8tNmgojh69Vb2DRkLu_AO8GYkg"></script>
+<script src="/sites/default/files/js/js_i9j3l9UL7_TUgMLkucW0p7-pZh6ZBVuwyUfDTT6nBw4.js?scope=footer&amp;delta=1&amp;language=en-gb&amp;theme=drupal8_zymphonies_theme&amp;include=eJx1jsEKAjEMRH9opVf_pqQ26y6kSUhS0H69SkXw0NMMb95hSh8j7yYcyDVBdWTHrfzRO0kBmtC7qlikb-YPnEsYsBMEpl_bqnUFuubxbHoIn-g5DmyYikj429O1shM-nM6Ktnbms8tNmgojh69Vb2DRkLu_AO8GYkg"></script>
 
   </body>
 </html>
