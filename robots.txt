@@ -27,6 +27,7 @@ Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
 Allow: /fact-checked/
 Allow: /government/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
+Allow: /if-indian-prisons-become-comfortable-what-point-justice/
 Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
