@@ -24,6 +24,7 @@ Allow: /economy/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
 Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
+Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/
 Allow: /fact-checked/
 Allow: /government/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
@@ -41,6 +42,7 @@ Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /movie/
 Allow: /nagaland/
 Allow: /opinion/
+Allow: /pakistan/
 Allow: /parole-and-furlough-india-where-should-law-draw-line/
 Allow: /police/
 Allow: /politics/
@@ -55,6 +57,7 @@ Allow: /social-media/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
 Allow: /technology/
 Allow: /terms-conditions/
+Allow: /united-kingdom/
 Allow: /verified/
 Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
