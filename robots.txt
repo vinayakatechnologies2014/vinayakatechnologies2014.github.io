@@ -19,6 +19,7 @@ Allow: /delhi-police-defends-facial-recognition-use-jantar-mantar-what-did-polic
 Allow: /delhi/
 Allow: /developing/
 Allow: /dharmasthala/
+Allow: /did-karnataka-quietly-release-cauvery-water-krs-midnight/
 Allow: /disclaimer/
 Allow: /economy/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
@@ -55,6 +56,7 @@ Allow: /russia/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
+Allow: /tamil-nadu/
 Allow: /technology/
 Allow: /terms-conditions/
 Allow: /united-kingdom/

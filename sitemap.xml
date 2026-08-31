@@ -105,7 +105,7 @@
  </url>
  <url>
   <loc>https://buzz.peoplesblog.co.in/rumor-will-people-india-have-pay-use-upi-heres-what-governments-latest-move-means/</loc>
-  <lastmod>2026-08-21T10:55:17+05:30</lastmod>
+  <lastmod>2026-08-31T12:39:09+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
  </url>
@@ -165,7 +165,13 @@
  </url>
  <url>
   <loc>https://buzz.peoplesblog.co.in/fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/</loc>
-  <lastmod>2026-08-30T14:21:33+05:30</lastmod>
+  <lastmod>2026-08-30T14:29:41+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/did-karnataka-quietly-release-cauvery-water-krs-midnight/</loc>
+  <lastmod>2026-08-31T12:38:12+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
  </url>
@@ -219,7 +225,7 @@
  </url>
  <url>
   <loc>https://buzz.peoplesblog.co.in/rumor/</loc>
-  <lastmod>2026-08-11T17:58:29+05:30</lastmod>
+  <lastmod>2026-08-31T12:24:46+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>
@@ -382,6 +388,12 @@
  <url>
   <loc>https://buzz.peoplesblog.co.in/united-kingdom/</loc>
   <lastmod>2026-08-30T14:19:40+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/tamil-nadu/</loc>
+  <lastmod>2026-08-31T12:34:28+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>
