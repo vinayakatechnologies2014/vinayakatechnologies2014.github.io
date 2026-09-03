@@ -21,6 +21,7 @@ Allow: /delhi/
 Allow: /developing/
 Allow: /dharmasthala/
 Allow: /disclaimer/
+Allow: /does-karnataka-need-second-bengaluru-or-stronger-cities/
 Allow: /economy/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
@@ -36,12 +37,15 @@ Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
 Allow: /justice/
+Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
+Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
 Allow: /karnataka/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /movie/
 Allow: /nagaland/
+Allow: /niti-aayog-calls-karnataka-consider-second-bengaluru/
 Allow: /opinion/
 Allow: /pakistan/
 Allow: /parole-and-furlough-india-where-should-law-draw-line/
