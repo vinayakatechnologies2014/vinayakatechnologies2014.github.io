@@ -9,9 +9,11 @@ Allow: /ajit-doval-beijing-nsa-centre-india-chinas-latest-push-stability/
 Allow: /archaeologists-find-3500-year-old-evidence-human-habitation-nagalands-noklak/
 Allow: /balochistan/
 Allow: /bangalore/
+Allow: /belgium/
 Allow: /bengaluru-pothole-our-street-bbmp-gba-who-paid-who-approved-and-who-responsible/
 Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
 Allow: /bengaluru-traffic-police-restrict-vehicles-5-major-flyovers-september-4-2026/
+Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
 Allow: /china/
 Allow: /contact-us/
@@ -28,10 +30,15 @@ Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-de
 Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
 Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/
 Allow: /fact-checked/
+Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
 Allow: /government/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
+Allow: /india-and-belgium-open-new-defence-industry-push-co-development-and-co-production/
 Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
+Allow: /india-belgium-deal-goes-beyond-trade-critical-minerals-semiconductors-and-defence-take-centre-stage/
+Allow: /india-bringing-brics-top-judges-together-what-really-agenda/
+Allow: /india-launches-bio-nivesh-push-private-investment-biotechnology/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
