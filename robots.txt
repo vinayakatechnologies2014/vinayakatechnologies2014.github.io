@@ -31,16 +31,19 @@ Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
 Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/
 Allow: /fact-checked/
 Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
+Allow: /france/
 Allow: /government/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
 Allow: /india-and-belgium-open-new-defence-industry-push-co-development-and-co-production/
+Allow: /india-and-france-deepen-space-cooperation-ahead-new-global-and-bengaluru-space-initiatives/
 Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
 Allow: /india-belgium-deal-goes-beyond-trade-critical-minerals-semiconductors-and-defence-take-centre-stage/
 Allow: /india-bringing-brics-top-judges-together-what-really-agenda/
 Allow: /india-launches-bio-nivesh-push-private-investment-biotechnology/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
+Allow: /indias-geothermal-push-why-government-now-looking-beyond-solar-and-wind/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
 Allow: /justice/
@@ -48,6 +51,7 @@ Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
 Allow: /karnataka/
+Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /movie/
