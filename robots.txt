@@ -41,6 +41,7 @@ Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-
 Allow: /india-belgium-deal-goes-beyond-trade-critical-minerals-semiconductors-and-defence-take-centre-stage/
 Allow: /india-bringing-brics-top-judges-together-what-really-agenda/
 Allow: /india-launches-bio-nivesh-push-private-investment-biotechnology/
+Allow: /india-subsidised-electric-trucks-now-it-trying-make-them-actually-work/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-geothermal-push-why-government-now-looking-beyond-solar-and-wind/
