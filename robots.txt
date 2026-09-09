@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /pagefind
 Disallow: /cdn-cgi/
 Allow: /
+Allow: /1451-karnataka-officials-booked-corruption-why-are-so-few-cases-ending-conviction/
 Allow: /about-us/
 Allow: /afghanistan/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
@@ -40,6 +41,7 @@ Allow: /india-and-france-deepen-space-cooperation-ahead-new-global-and-bengaluru
 Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
 Allow: /india-belgium-deal-goes-beyond-trade-critical-minerals-semiconductors-and-defence-take-centre-stage/
 Allow: /india-bringing-brics-top-judges-together-what-really-agenda/
+Allow: /india-has-finished-2800-km-dedicated-freight-corridors-what-changes-now/
 Allow: /india-launches-bio-nivesh-push-private-investment-biotechnology/
 Allow: /india-subsidised-electric-trucks-now-it-trying-make-them-actually-work/
 Allow: /india/
@@ -52,6 +54,7 @@ Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
 Allow: /karnataka/
+Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
