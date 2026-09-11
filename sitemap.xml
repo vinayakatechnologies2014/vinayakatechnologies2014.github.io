@@ -290,6 +290,18 @@
   <priority>1.0</priority>
  </url>
  <url>
+  <loc>https://buzz.peoplesblog.co.in/sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/</loc>
+  <lastmod>2026-09-11T10:05:56+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/</loc>
+  <lastmod>2026-09-11T10:05:13+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
   <loc>https://buzz.peoplesblog.co.in/about-us/</loc>
   <lastmod>2026-08-16T12:43:12+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -526,6 +538,12 @@
  <url>
   <loc>https://buzz.peoplesblog.co.in/france/</loc>
   <lastmod>2026-09-05T10:19:06+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/united-states-america/</loc>
+  <lastmod>2026-09-11T10:03:19+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>

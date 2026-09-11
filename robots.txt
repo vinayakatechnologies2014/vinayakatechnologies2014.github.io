@@ -36,6 +36,7 @@ Allow: /fact-checked/
 Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
 Allow: /france/
 Allow: /government/
+Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
 Allow: /india-and-belgium-open-new-defence-industry-push-co-development-and-co-production/
@@ -75,6 +76,7 @@ Allow: /rumor-will-people-india-have-pay-use-upi-heres-what-governments-latest-m
 Allow: /rumor/
 Allow: /rumors-major-smartphone-launch-begin-circulating-online/
 Allow: /russia/
+Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
@@ -82,6 +84,7 @@ Allow: /tamil-nadu/
 Allow: /technology/
 Allow: /terms-conditions/
 Allow: /united-kingdom/
+Allow: /united-states-america/
 Allow: /verified/
 Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
