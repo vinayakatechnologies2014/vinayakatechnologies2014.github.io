@@ -71,6 +71,7 @@ Allow: /police/
 Allow: /politics/
 Allow: /privacy-policy/
 Allow: /public-buzz/
+Allow: /rbi-pulling-rs1-lakh-crore-out-banking-system-why-now/
 Allow: /rumor-did-karnataka-quietly-release-cauvery-water-krs-midnight/
 Allow: /rumor-will-people-india-have-pay-use-upi-heres-what-governments-latest-move-means/
 Allow: /rumor/
