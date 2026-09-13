@@ -11,6 +11,8 @@ Allow: /archaeologists-find-3500-year-old-evidence-human-habitation-nagalands-no
 Allow: /balochistan/
 Allow: /bangalore/
 Allow: /belgium/
+Allow: /bengaluru-civic-workers-protested-outside-vidhana-soudha-what-were-they-demanding/
+Allow: /bengaluru-has-new-civic-structure-when-will-citizens-get-elected-representatives/
 Allow: /bengaluru-pothole-our-street-bbmp-gba-who-paid-who-approved-and-who-responsible/
 Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
 Allow: /bengaluru-traffic-police-restrict-vehicles-5-major-flyovers-september-4-2026/
@@ -54,6 +56,7 @@ Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
 Allow: /justice/
 Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
+Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
 Allow: /karnataka/
