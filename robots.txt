@@ -3,6 +3,7 @@ Disallow: /pagefind
 Disallow: /cdn-cgi/
 Allow: /
 Allow: /1451-karnataka-officials-booked-corruption-why-are-so-few-cases-ending-conviction/
+Allow: /800-children-rescued-karnataka-what-happened-after-shivakumars-yeshwanthpur-visit/
 Allow: /about-us/
 Allow: /afghanistan/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
@@ -38,6 +39,7 @@ Allow: /fact-checked/
 Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
 Allow: /france/
 Allow: /government/
+Allow: /gsi-raises-concerns-about-bengalurus-hebbal-tunnel-and-lalbaghs-ancient-rock/
 Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
