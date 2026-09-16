@@ -66,6 +66,7 @@ Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recru
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
+Allow: /meta-report-child-safety-cases-directly-indias-cybercrime-portal/
 Allow: /movie/
 Allow: /nagaland/
 Allow: /niti-aayog-calls-karnataka-consider-second-bengaluru/
@@ -91,6 +92,7 @@ Allow: /technology/
 Allow: /terms-conditions/
 Allow: /united-kingdom/
 Allow: /united-states-america/
+Allow: /upi-was-free-now-what-changes-npcis-new-mdr-customers-wont-pay-directly-could-prices-go/
 Allow: /verified/
 Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
