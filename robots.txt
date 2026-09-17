@@ -31,6 +31,7 @@ Allow: /disclaimer/
 Allow: /does-karnataka-need-second-bengaluru-or-stronger-cities/
 Allow: /earth-globe-so-why-are-we-still-fighting-over-map/
 Allow: /economy/
+Allow: /epfo-just-changed-rs15000-rule-heres-what-employees-need-know/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
 Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
