@@ -65,14 +65,17 @@ Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
+Allow: /karnataka-wants-1-gw-data-centres-2031-can-state-provide-power-water-and-land-without-adding/
 Allow: /karnataka/
 Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /meta-report-child-safety-cases-directly-indias-cybercrime-portal/
+Allow: /moon/
 Allow: /movie/
 Allow: /nagaland/
+Allow: /nasa-finds-new-222-metre-crater-moon-created-2024/
 Allow: /niti-aayog-calls-karnataka-consider-second-bengaluru/
 Allow: /opinion/
 Allow: /pakistan/
@@ -90,6 +93,7 @@ Allow: /russia/
 Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
+Allow: /space/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
 Allow: /tamil-nadu/
 Allow: /technology/
