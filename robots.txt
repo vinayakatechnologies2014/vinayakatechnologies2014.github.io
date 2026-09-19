@@ -47,6 +47,7 @@ Allow: /gsi-raises-concerns-about-bengalurus-hebbal-tunnel-and-lalbaghs-ancient-
 Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
+Allow: /if-software-government-infrastructure-why-bengaluru-charging-citizens-separate-rs200-software-charge/
 Allow: /india-and-belgium-open-new-defence-industry-push-co-development-and-co-production/
 Allow: /india-and-france-deepen-space-cooperation-ahead-new-global-and-bengaluru-space-initiatives/
 Allow: /india-attends-afghanistans-victory-day-event-delhi-what-has-changed-new-delhis-taliban-engagement/
