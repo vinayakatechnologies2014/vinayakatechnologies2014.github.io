@@ -55,6 +55,7 @@ Allow: /india-belgium-deal-goes-beyond-trade-critical-minerals-semiconductors-an
 Allow: /india-bringing-brics-top-judges-together-what-really-agenda/
 Allow: /india-has-finished-2800-km-dedicated-freight-corridors-what-changes-now/
 Allow: /india-launches-bio-nivesh-push-private-investment-biotechnology/
+Allow: /india-needs-institutions-can-outlive-governments/
 Allow: /india-subsidised-electric-trucks-now-it-trying-make-them-actually-work/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
