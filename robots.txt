@@ -95,6 +95,7 @@ Allow: /russia/
 Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
+Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
