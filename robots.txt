@@ -74,6 +74,7 @@ Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recru
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
+Allow: /mea-says-pakistan-must-act-against-cross-border-terrorism-india-condemns-strikes-afghanistan/
 Allow: /meta-report-child-safety-cases-directly-indias-cybercrime-portal/
 Allow: /moon/
 Allow: /movie/
