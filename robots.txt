@@ -71,6 +71,7 @@ Allow: /karnataka-wants-1-gw-data-centres-2031-can-state-provide-power-water-and
 Allow: /karnataka/
 Allow: /karnatakas-2-cinema-cess-why-moviegoers-are-being-asked-fund-karnataka-cine-and-cultural-activists/
 Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
+Allow: /kpsc-scam-karnataka-high-court-justice-nagaprasanna-orders-fresh-sit-investigation-why-cm-d-k/
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
