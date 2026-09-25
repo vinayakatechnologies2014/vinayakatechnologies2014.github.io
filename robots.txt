@@ -14,6 +14,7 @@ Allow: /archaeologists-find-3500-year-old-evidence-human-habitation-nagalands-no
 Allow: /balochistan/
 Allow: /bangalore/
 Allow: /belgium/
+Allow: /bengaluru-civic-elections-gba-asks-voters-check-their-names-cm-shivakumar-wants-sir-done-again/
 Allow: /bengaluru-civic-workers-protested-outside-vidhana-soudha-what-were-they-demanding/
 Allow: /bengaluru-has-new-civic-structure-when-will-citizens-get-elected-representatives/
 Allow: /bengaluru-pg-row-began-owners-challenging-notices-now-gba-says-2500-lack-required-approvals/
@@ -98,6 +99,7 @@ Allow: /russia/
 Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
+Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-are-officers-leading-fresh/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
