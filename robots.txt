@@ -110,6 +110,7 @@ Allow: /terms-conditions/
 Allow: /united-kingdom/
 Allow: /united-states-america/
 Allow: /upi-was-free-now-what-changes-npcis-new-mdr-customers-wont-pay-directly-could-prices-go/
+Allow: /us-pressures-india-over-russian-oil-how-new-delhi-responding/
 Allow: /verified/
 Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
