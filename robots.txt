@@ -100,6 +100,7 @@ Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-poli
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
 Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-are-officers-leading-fresh/
+Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-home-department-reconstitute/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
