@@ -95,6 +95,7 @@ Allow: /rumor-did-karnataka-quietly-release-cauvery-water-krs-midnight/
 Allow: /rumor-will-people-india-have-pay-use-upi-heres-what-governments-latest-move-means/
 Allow: /rumor/
 Allow: /rumors-major-smartphone-launch-begin-circulating-online/
+Allow: /russia-backs-indias-permanent-unsc-seat-bid-un-what-happened-september-26-2026/
 Allow: /russia/
 Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
