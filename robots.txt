@@ -41,6 +41,7 @@ Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-de
 Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
 Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/
 Allow: /fact-checked/
+Allow: /fbi-adds-goldy-brar-ten-most-wanted-list-announces-rs95-crore-reward-what-are-charges/
 Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
 Allow: /france/
 Allow: /government/
@@ -104,6 +105,7 @@ Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-ar
 Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-home-department-reconstitute/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
+Allow: /supreme-court-asks-central-government-explain-upi-charges-above-rs2000-does-not-stop-october-15/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
 Allow: /tamil-nadu/
