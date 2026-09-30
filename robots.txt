@@ -23,6 +23,7 @@ Allow: /bengaluru-residents-fight-tree-poisoning-why-citizens-want-tougher-actio
 Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
 Allow: /bengaluru-traffic-police-restrict-vehicles-5-major-flyovers-september-4-2026/
 Allow: /bengaluru-tried-restricting-vehicles-flyovers-now-it-changing-plan/
+Allow: /bengaluru-women-walked-after-9-pm-bigger-question-who-keeps-these-roads-safe/
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
 Allow: /china/
