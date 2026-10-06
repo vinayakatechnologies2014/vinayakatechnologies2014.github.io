@@ -66,6 +66,7 @@ Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-geothermal-push-why-government-now-looking-beyond-solar-and-wind/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
+Allow: /indiranagars-footpath-went-viral-then-civic-action-came/
 Allow: /justice/
 Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
@@ -122,6 +123,7 @@ Allow: /verified/
 Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
 Allow: /why-did-karnataka-change-parks-law-now-lalbagh-tunnel-road-connection-bengaluru-talking-about/
+Allow: /why-does-bengalurus-rain-still-turn-same-roads-same-problem/
 Allow: /why-everyone-talking-about-bengalurus-next-big-technology-event/
 Allow: /why-us-pacific-command-commander-back-india-and-what-does-washington-need-new-delhi/
 Allow: /world/
