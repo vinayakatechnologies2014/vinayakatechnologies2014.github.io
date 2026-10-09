@@ -72,6 +72,7 @@ Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
+Allow: /karnataka-sting-operation-row-leaders-trade-allegations-does-it-matter-common-people/
 Allow: /karnataka-wants-1-gw-data-centres-2031-can-state-provide-power-water-and-land-without-adding/
 Allow: /karnataka/
 Allow: /karnatakas-2-cinema-cess-why-moviegoers-are-being-asked-fund-karnataka-cine-and-cultural-activists/
