@@ -49,6 +49,7 @@ Allow: /france/
 Allow: /government/
 Allow: /gsi-raises-concerns-about-bengalurus-hebbal-tunnel-and-lalbaghs-ancient-rock/
 Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/
+Allow: /h-1b-families-leaving-us-has-risk-become-more-real-viral-claims/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
 Allow: /if-software-government-infrastructure-why-bengaluru-charging-citizens-separate-rs200-software-charge/
@@ -110,6 +111,7 @@ Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-ar
 Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-home-department-reconstitute/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
+Allow: /starlink-debate-india-will-satellite-internet-improve-connectivity-ordinary-indians/
 Allow: /supreme-court-asks-central-government-explain-upi-charges-above-rs2000-does-not-stop-october-15/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
