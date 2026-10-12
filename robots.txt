@@ -10,6 +10,7 @@ Allow: /about-us/
 Allow: /afghanistan/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
 Allow: /ajit-doval-beijing-nsa-centre-india-chinas-latest-push-stability/
+Allow: /andhra-pradesh/
 Allow: /archaeologists-find-3500-year-old-evidence-human-habitation-nagalands-noklak/
 Allow: /balochistan/
 Allow: /bangalore/
@@ -118,6 +119,8 @@ Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigat
 Allow: /tamil-nadu/
 Allow: /technology/
 Allow: /terms-conditions/
+Allow: /tirumala-karnataka-choultry-row-rs202-crore-project-land-history-and-proposed-kstdc-takeover/
+Allow: /tirumala/
 Allow: /united-kingdom/
 Allow: /united-states-america/
 Allow: /upi-was-free-now-what-changes-npcis-new-mdr-customers-wont-pay-directly-could-prices-go/
