@@ -46,6 +46,7 @@ Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-expl
 Allow: /fact-checked/
 Allow: /fbi-adds-goldy-brar-ten-most-wanted-list-announces-rs95-crore-reward-what-are-charges/
 Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
+Allow: /four-arrested-yelahanka-bengaluru-allegedly-forcing-13-children-beg/
 Allow: /france/
 Allow: /government/
 Allow: /gsi-raises-concerns-about-bengalurus-hebbal-tunnel-and-lalbaghs-ancient-rock/
