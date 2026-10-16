@@ -15,6 +15,7 @@ Allow: /archaeologists-find-3500-year-old-evidence-human-habitation-nagalands-no
 Allow: /balochistan/
 Allow: /bangalore/
 Allow: /belgium/
+Allow: /bengaluru-civic-elections-december-approaching-will-city-finally-get-elected-leaders/
 Allow: /bengaluru-civic-elections-gba-asks-voters-check-their-names-cm-shivakumar-wants-sir-done-again/
 Allow: /bengaluru-civic-workers-protested-outside-vidhana-soudha-what-were-they-demanding/
 Allow: /bengaluru-has-new-civic-structure-when-will-citizens-get-elected-representatives/
