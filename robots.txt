@@ -84,6 +84,7 @@ Allow: /karnataka/
 Allow: /karnatakas-2-cinema-cess-why-moviegoers-are-being-asked-fund-karnataka-cine-and-cultural-activists/
 Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
 Allow: /kpsc-scam-karnataka-high-court-justice-nagaprasanna-orders-fresh-sit-investigation-why-cm-d-k/
+Allow: /kpsc-scam-supreme-court-modifies-high-courts-sit-order-after-karnataka-governments-plea-dig-alok/
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
