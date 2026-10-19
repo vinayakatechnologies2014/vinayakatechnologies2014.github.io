@@ -37,6 +37,8 @@ Allow: /delhi/
 Allow: /developing/
 Allow: /dharmasthala/
 Allow: /disclaimer/
+Allow: /dk-shivakumar-protested-against-sir-delhi-where-was-he-when-bengaluru-protesters-were-detained/
+Allow: /doddaballapur-farmers-protest-land-acquisition-should-karnataka-use-unused-industrial-land-taking/
 Allow: /does-karnataka-need-second-bengaluru-or-stronger-cities/
 Allow: /earth-globe-so-why-are-we-still-fighting-over-map/
 Allow: /economy/
