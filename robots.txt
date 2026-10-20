@@ -56,6 +56,7 @@ Allow: /government/
 Allow: /gsi-raises-concerns-about-bengalurus-hebbal-tunnel-and-lalbaghs-ancient-rock/
 Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/
 Allow: /h-1b-families-leaving-us-has-risk-become-more-real-viral-claims/
+Allow: /h-1b-visa-uncertainty-are-indian-professionals-changing-their-plans-stay-usa/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
 Allow: /if-software-government-infrastructure-why-bengaluru-charging-citizens-separate-rs200-software-charge/
@@ -132,6 +133,7 @@ Allow: /tirumala/
 Allow: /united-kingdom/
 Allow: /united-states-america/
 Allow: /upi-was-free-now-what-changes-npcis-new-mdr-customers-wont-pay-directly-could-prices-go/
+Allow: /us-india-trade-deal-rubio-says-agreement-very-close-has-india-secured-better-terms/
 Allow: /us-pressures-india-over-russian-oil-how-new-delhi-responding/
 Allow: /verified/
 Allow: /weather/
