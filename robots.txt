@@ -30,6 +30,7 @@ Allow: /bengaluru-women-walked-after-9-pm-bigger-question-who-keeps-these-roads-
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
 Allow: /china/
+Allow: /coal-india-first-mines-its-role-countrys-energy-system-today/
 Allow: /contact-us/
 Allow: /court/
 Allow: /delhi-police-defends-facial-recognition-use-jantar-mantar-what-did-police-tell-supreme-court/
