@@ -100,6 +100,7 @@ Allow: /nagaland/
 Allow: /nasa-finds-new-222-metre-crater-moon-created-2024/
 Allow: /niti-aayog-calls-karnataka-consider-second-bengaluru/
 Allow: /opinion/
+Allow: /pakistan-supporting-cross-border-terrorism-what-did-india-tell-un-general-assembly/
 Allow: /pakistan/
 Allow: /parole-and-furlough-india-where-should-law-draw-line/
 Allow: /police/
