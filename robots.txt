@@ -8,6 +8,7 @@ Allow: /38-year-old-us-satellite-breaks-apart-775-km-above-earth/
 Allow: /800-children-rescued-karnataka-what-happened-after-shivakumars-yeshwanthpur-visit/
 Allow: /about-us/
 Allow: /afghanistan/
+Allow: /ai-altered-video-falsely-links-army-chief-viral-party-clip/
 Allow: /air-india-appoints-new-ceo-airline-begins-major-turnaround-effort/
 Allow: /ajit-doval-beijing-nsa-centre-india-chinas-latest-push-stability/
 Allow: /andhra-pradesh/
@@ -50,6 +51,7 @@ Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
 Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/
 Allow: /fact-checked/
 Allow: /fbi-adds-goldy-brar-ten-most-wanted-list-announces-rs95-crore-reward-what-are-charges/
+Allow: /finance-ministers-face-used-fake-daily-income-investment-video/
 Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-aviation-bet/
 Allow: /four-arrested-yelahanka-bengaluru-allegedly-forcing-13-children-beg/
 Allow: /france/
@@ -139,6 +141,7 @@ Allow: /upi-was-free-now-what-changes-npcis-new-mdr-customers-wont-pay-directly-
 Allow: /us-india-trade-deal-rubio-says-agreement-very-close-has-india-secured-better-terms/
 Allow: /us-pressures-india-over-russian-oil-how-new-delhi-responding/
 Allow: /verified/
+Allow: /viral-video-falsely-attributes-pakistani-commando-claim-indias-mea-spokesperson/
 Allow: /weather/
 Allow: /why-bengaluru-needs-think-beyond-traffic-when-planning-its-next-decade/
 Allow: /why-did-karnataka-change-parks-law-now-lalbagh-tunnel-road-connection-bengaluru-talking-about/
