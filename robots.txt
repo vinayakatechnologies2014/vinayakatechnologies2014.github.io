@@ -37,6 +37,7 @@ Allow: /contact-us/
 Allow: /court/
 Allow: /delhi-police-defends-facial-recognition-use-jantar-mantar-what-did-police-tell-supreme-court/
 Allow: /delhi/
+Allow: /devanahalli-farmers-prepare-indefinite-protest-why-karnataka-seeking-1200-acres-near-foxconn/
 Allow: /developing/
 Allow: /dharmasthala/
 Allow: /disclaimer/
@@ -63,6 +64,7 @@ Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actual
 Allow: /h-1b-families-leaving-us-has-risk-become-more-real-viral-claims/
 Allow: /h-1b-visa-uncertainty-are-indian-professionals-changing-their-plans-stay-usa/
 Allow: /heavy-rain-expected-across-several-states-monsoon-activity-intensifies/
+Allow: /hebbal-land-dispute-supreme-court-clears-bengaluru-metros-blue-line-construction-what-about-original/
 Allow: /if-indian-prisons-become-comfortable-what-point-justice/
 Allow: /if-software-government-infrastructure-why-bengaluru-charging-citizens-separate-rs200-software-charge/
 Allow: /india-and-belgium-open-new-defence-industry-push-co-development-and-co-production/
