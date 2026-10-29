@@ -29,6 +29,7 @@ Allow: /bengaluru-tried-restricting-vehicles-flyovers-now-it-changing-plan/
 Allow: /bengaluru-uses-ai-track-garbage-will-officials-clear-1000-black-spots-10-days/
 Allow: /bengaluru-woman-loses-rs98000-while-seeking-refund-who-responsible-fake-customer-care-numbers/
 Allow: /bengaluru-women-walked-after-9-pm-bigger-question-who-keeps-these-roads-safe/
+Allow: /bengalurus-one-ward-one-drive-why-does-routine-civic-work-need-special-campaign/
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
 Allow: /china/
