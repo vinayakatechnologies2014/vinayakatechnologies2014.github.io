@@ -97,6 +97,7 @@ Allow: /karnatakas-2-cinema-cess-why-moviegoers-are-being-asked-fund-karnataka-c
 Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
 Allow: /kpsc-scam-karnataka-high-court-justice-nagaprasanna-orders-fresh-sit-investigation-why-cm-d-k/
 Allow: /kpsc-scam-supreme-court-modifies-high-courts-sit-order-after-karnataka-governments-plea-dig-alok/
+Allow: /kpsc-scam-supreme-court-strikes-down-law-validating-362-appointments-who-will-answer-15-years/
 Allow: /ladakh/
 Allow: /law/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
@@ -130,6 +131,7 @@ Allow: /social-media/
 Allow: /sowjanya-rape-murder-case-fresh-sit-begins-investigation-reviews-old-case-files-mangaluru/
 Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-are-officers-leading-fresh/
 Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-home-department-reconstitute/
+Allow: /sowjanya-rape-murder-case-reported-cm-d-k-shivakumar-sit-chief-n-shashi-kumar-meeting-triggers/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
 Allow: /starlink-debate-india-will-satellite-internet-improve-connectivity-ordinary-indians/
