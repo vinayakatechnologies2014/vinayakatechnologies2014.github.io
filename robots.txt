@@ -130,8 +130,10 @@ Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-
 Allow: /social-media/
 Allow: /sowjanya-rape-murder-case-fresh-sit-begins-investigation-reviews-old-case-files-mangaluru/
 Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-are-officers-leading-fresh/
+Allow: /sowjanya-rape-murder-case-karnataka-government-reconstitutes-sit-chetan-singh-rathore-appointed-new/
 Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-home-department-reconstitute/
 Allow: /sowjanya-rape-murder-case-reported-cm-d-k-shivakumar-sit-chief-n-shashi-kumar-meeting-triggers/
+Allow: /sowjanya-rape-murder-case-sit-investigating-officer-lokesh-jagalasar-leads-crime-scene/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
 Allow: /starlink-debate-india-will-satellite-internet-improve-connectivity-ordinary-indians/
