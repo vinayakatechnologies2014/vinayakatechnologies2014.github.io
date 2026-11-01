@@ -83,6 +83,7 @@ Allow: /indias-geothermal-push-why-government-now-looking-beyond-solar-and-wind/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
 Allow: /indiranagars-footpath-went-viral-then-civic-action-came/
+Allow: /jharkhand-woman-seeking-police-help-allegedly-raped-constable-inside-police-station-five-other/
 Allow: /justice/
 Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
