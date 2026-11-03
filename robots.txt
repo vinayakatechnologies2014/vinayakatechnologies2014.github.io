@@ -76,6 +76,7 @@ Allow: /india-bringing-brics-top-judges-together-what-really-agenda/
 Allow: /india-has-finished-2800-km-dedicated-freight-corridors-what-changes-now/
 Allow: /india-launches-bio-nivesh-push-private-investment-biotechnology/
 Allow: /india-needs-institutions-can-outlive-governments/
+Allow: /india-nepal-ties-focus-foreign-secretary-vikram-misri-visit-kathmandu-bilateral-talks/
 Allow: /india-subsidised-electric-trucks-now-it-trying-make-them-actually-work/
 Allow: /india/
 Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
@@ -97,6 +98,7 @@ Allow: /karnataka/
 Allow: /karnatakas-2-cinema-cess-why-moviegoers-are-being-asked-fund-karnataka-cine-and-cultural-activists/
 Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
 Allow: /kpsc-scam-karnataka-high-court-justice-nagaprasanna-orders-fresh-sit-investigation-why-cm-d-k/
+Allow: /kpsc-scam-karnataka-high-court-reconstitutes-sit-names-adgp-r-hitendra-investigation-chief/
 Allow: /kpsc-scam-supreme-court-modifies-high-courts-sit-order-after-karnataka-governments-plea-dig-alok/
 Allow: /kpsc-scam-supreme-court-strikes-down-law-validating-362-appointments-who-will-answer-15-years/
 Allow: /ladakh/
@@ -108,6 +110,7 @@ Allow: /moon/
 Allow: /movie/
 Allow: /nagaland/
 Allow: /nasa-finds-new-222-metre-crater-moon-created-2024/
+Allow: /nepal/
 Allow: /niti-aayog-calls-karnataka-consider-second-bengaluru/
 Allow: /opinion/
 Allow: /pakistan-supporting-cross-border-terrorism-what-did-india-tell-un-general-assembly/

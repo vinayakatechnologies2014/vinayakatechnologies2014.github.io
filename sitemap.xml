@@ -692,6 +692,18 @@
   <priority>1.0</priority>
  </url>
  <url>
+  <loc>https://buzz.peoplesblog.co.in/kpsc-scam-karnataka-high-court-reconstitutes-sit-names-adgp-r-hitendra-investigation-chief/</loc>
+  <lastmod>2026-11-03T10:10:11+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/india-nepal-ties-focus-foreign-secretary-vikram-misri-visit-kathmandu-bilateral-talks/</loc>
+  <lastmod>2026-11-03T10:19:03+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
   <loc>https://buzz.peoplesblog.co.in/about-us/</loc>
   <lastmod>2026-08-16T12:43:12+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -958,6 +970,12 @@
  <url>
   <loc>https://buzz.peoplesblog.co.in/tirumala/</loc>
   <lastmod>2026-10-12T15:15:48+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/nepal/</loc>
+  <lastmod>2026-11-03T10:15:55+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>
