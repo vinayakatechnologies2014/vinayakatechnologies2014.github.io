@@ -90,6 +90,7 @@ Allow: /justice/
 Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
+Allow: /karnataka-lawyers-safety-under-scrutiny-after-murders-high-court-takes-protection-plea-and-courtroom/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
 Allow: /karnataka-sting-operation-row-court-intervention-police-probe-and-political-battle-intensify/
 Allow: /karnataka-sting-operation-row-leaders-trade-allegations-does-it-matter-common-people/
