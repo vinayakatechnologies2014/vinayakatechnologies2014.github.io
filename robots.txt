@@ -5,6 +5,7 @@ Allow: /
 Allow: /100-tariff-india-what-new-us-russia-sanctions-bill-actually-says/
 Allow: /1451-karnataka-officials-booked-corruption-why-are-so-few-cases-ending-conviction/
 Allow: /38-year-old-us-satellite-breaks-apart-775-km-above-earth/
+Allow: /71-new-fast-track-courts-approved-rape-and-pocso-cases-will-survivors-get-faster-justice/
 Allow: /800-children-rescued-karnataka-what-happened-after-shivakumars-yeshwanthpur-visit/
 Allow: /about-us/
 Allow: /afghanistan/
@@ -92,6 +93,7 @@ Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-lawyers-safety-under-scrutiny-after-murders-high-court-takes-protection-plea-and-courtroom/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
+Allow: /karnataka-raises-bus-fares-passengers-pay-more-transport-corporations-face-financial-problems/
 Allow: /karnataka-sting-operation-row-court-intervention-police-probe-and-political-battle-intensify/
 Allow: /karnataka-sting-operation-row-leaders-trade-allegations-does-it-matter-common-people/
 Allow: /karnataka-sting-operation-row-when-political-leverage-reaches-corridors-power-common-people-pay/
