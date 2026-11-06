@@ -26,6 +26,7 @@ Allow: /bengaluru-pg-row-began-owners-challenging-notices-now-gba-says-2500-lack
 Allow: /bengaluru-pothole-our-street-bbmp-gba-who-paid-who-approved-and-who-responsible/
 Allow: /bengaluru-residents-fight-tree-poisoning-why-citizens-want-tougher-action-protect-citys-trees/
 Allow: /bengaluru-tech-summit-2026-preparations-gather-momentum-ahead-november-event/
+Allow: /bengaluru-traffic-alert-bb-road-restrictions-begin-november-6-18-months-uas-staff-quarters-mehkri/
 Allow: /bengaluru-traffic-police-restrict-vehicles-5-major-flyovers-september-4-2026/
 Allow: /bengaluru-tried-restricting-vehicles-flyovers-now-it-changing-plan/
 Allow: /bengaluru-uses-ai-track-garbage-will-officials-clear-1000-black-spots-10-days/
@@ -34,6 +35,7 @@ Allow: /bengaluru-women-walked-after-9-pm-bigger-question-who-keeps-these-roads-
 Allow: /bengalurus-one-ward-one-drive-why-does-routine-civic-work-need-special-campaign/
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
+Allow: /cert-warns-ai-powered-cyberattacks-indian-financial-firms-how-hackers-are-exploiting-payment-systems/
 Allow: /china/
 Allow: /coal-india-first-mines-its-role-countrys-energy-system-today/
 Allow: /contact-us/
