@@ -56,6 +56,7 @@ Allow: /epfo-just-changed-rs15000-rule-heres-what-employees-need-know/
 Allow: /fact-check-did-government-really-announce-nationwide-school-holiday/
 Allow: /fact-check-every-viral-social-media-claim-about-balochistan-confirmed-development/
 Allow: /fact-check-instagram-really-being-banned-india-august-25-2026/
+Allow: /fact-check-viral-video-sergey-lavrov-dismissing-indias-diplomatic-standing-deepfake/
 Allow: /fact-check-was-india-granted-independence-99-year-lease-viral-claim-explained/
 Allow: /fact-checked/
 Allow: /fbi-adds-goldy-brar-ten-most-wanted-list-announces-rs95-crore-reward-what-are-charges/
