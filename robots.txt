@@ -95,6 +95,7 @@ Allow: /karnataka-already-has-plan-grow-beyond-bengaluru/
 Allow: /karnataka-gives-gun-amnesty-until-november-1-state-targeting-forest-area-weapons-first/
 Allow: /karnataka-government-announces-new-measures-improve-bengaluru-traffic-management/
 Allow: /karnataka-lawyers-safety-under-scrutiny-after-murders-high-court-takes-protection-plea-and-courtroom/
+Allow: /karnataka-minister-rizwan-arshad-questions-union-minister-hardeep-singh-puri-over-e20-petrol-after/
 Allow: /karnataka-prepare-plan-possible-second-bengaluru-what-happens-next/
 Allow: /karnataka-raises-bus-fares-passengers-pay-more-transport-corporations-face-financial-problems/
 Allow: /karnataka-sting-operation-row-court-intervention-police-probe-and-political-battle-intensify/
