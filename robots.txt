@@ -88,6 +88,7 @@ Allow: /indias-forex-reserves-cross-700-billion-what-it-means-country/
 Allow: /indias-geothermal-push-why-government-now-looking-beyond-solar-and-wind/
 Allow: /indias-growing-dependence-russian-oil-becoming-energy-security-risk/
 Allow: /indias-growing-technology-ambition-changing-what-people-expect-bengaluru/
+Allow: /indigo-flight-returns-bengaluru-after-passenger-finds-hijack-threat-note-board/
 Allow: /indiranagars-footpath-went-viral-then-civic-action-came/
 Allow: /jharkhand-woman-seeking-police-help-allegedly-raped-constable-inside-police-station-five-other/
 Allow: /justice/
@@ -111,6 +112,7 @@ Allow: /kpsc-scam-supreme-court-modifies-high-courts-sit-order-after-karnataka-g
 Allow: /kpsc-scam-supreme-court-strikes-down-law-validating-362-appointments-who-will-answer-15-years/
 Allow: /ladakh/
 Allow: /law/
+Allow: /lucknow/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
 Allow: /mea-says-pakistan-must-act-against-cross-border-terrorism-india-condemns-strikes-afghanistan/
 Allow: /meta-report-child-safety-cases-directly-indias-cybercrime-portal/
