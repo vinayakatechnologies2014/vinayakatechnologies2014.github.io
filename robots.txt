@@ -106,6 +106,7 @@ Allow: /karnataka-sting-operation-row-when-political-leverage-reaches-corridors-
 Allow: /karnataka-wants-1-gw-data-centres-2031-can-state-provide-power-water-and-land-without-adding/
 Allow: /karnataka/
 Allow: /karnatakas-2-cinema-cess-why-moviegoers-are-being-asked-fund-karnataka-cine-and-cultural-activists/
+Allow: /karnatakas-politics-perpetual-conflict-who-actually-governing-while-leaders-keep-fighting/
 Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recruitment-network-go/
 Allow: /kpsc-scam-karnataka-high-court-justice-nagaprasanna-orders-fresh-sit-investigation-why-cm-d-k/
 Allow: /kpsc-scam-karnataka-high-court-reconstitutes-sit-names-adgp-r-hitendra-investigation-chief/
