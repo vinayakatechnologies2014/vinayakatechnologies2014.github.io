@@ -21,6 +21,7 @@ Allow: /bengaluru-civic-elections-december-approaching-will-city-finally-get-ele
 Allow: /bengaluru-civic-elections-gba-asks-voters-check-their-names-cm-shivakumar-wants-sir-done-again/
 Allow: /bengaluru-civic-elections-gba-polls-may-face-delay-state-election-commission-awaits-eci-data/
 Allow: /bengaluru-civic-workers-protested-outside-vidhana-soudha-what-were-they-demanding/
+Allow: /bengaluru-grindstone-murders-how-police-traced-seven-bodies-followed-phone-trail-and-continue-their/
 Allow: /bengaluru-has-new-civic-structure-when-will-citizens-get-elected-representatives/
 Allow: /bengaluru-pg-row-began-owners-challenging-notices-now-gba-says-2500-lack-required-approvals/
 Allow: /bengaluru-pothole-our-street-bbmp-gba-who-paid-who-approved-and-who-responsible/
@@ -40,6 +41,7 @@ Allow: /china/
 Allow: /coal-india-first-mines-its-role-countrys-energy-system-today/
 Allow: /contact-us/
 Allow: /court/
+Allow: /crime/
 Allow: /delhi-police-defends-facial-recognition-use-jantar-mantar-what-did-police-tell-supreme-court/
 Allow: /delhi/
 Allow: /devanahalli-farmers-prepare-indefinite-protest-why-karnataka-seeking-1200-acres-near-foxconn/
