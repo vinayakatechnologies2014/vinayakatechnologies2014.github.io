@@ -144,6 +144,7 @@ Allow: /rumor/
 Allow: /rumors-major-smartphone-launch-begin-circulating-online/
 Allow: /russia-backs-indias-permanent-unsc-seat-bid-un-what-happened-september-26-2026/
 Allow: /russia/
+Allow: /shri-kedarnath-jyotirlinga-temple-closes-winter-november-11-2026-what-happens-next-and-when-will-it/
 Allow: /sits-7005-page-final-report-crime-no-392025-registered-dharmasthala-police-station/
 Allow: /social-media-users-debate-whether-indias-aviation-industry-entering-new-phase/
 Allow: /social-media/
@@ -151,8 +152,10 @@ Allow: /sowjanya-rape-murder-case-fresh-sit-begins-investigation-reviews-old-cas
 Allow: /sowjanya-rape-murder-case-karnataka-government-forms-5-member-sit-who-are-officers-leading-fresh/
 Allow: /sowjanya-rape-murder-case-karnataka-government-reconstitutes-sit-chetan-singh-rathore-appointed-new/
 Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-home-department-reconstitute/
+Allow: /sowjanya-rape-murder-case-new-sit-chief-chetan-singh-rathore-meets-mother-kusumavathi-visits-crime/
 Allow: /sowjanya-rape-murder-case-reported-cm-d-k-shivakumar-sit-chief-n-shashi-kumar-meeting-triggers/
 Allow: /sowjanya-rape-murder-case-sit-investigating-officer-lokesh-jagalasar-leads-crime-scene/
+Allow: /sowjanya-rape-murder-case-sit-reportedly-lists-13-15-suspects-14-year-old-forensic-sample-sent-fresh/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
 Allow: /starlink-debate-india-will-satellite-internet-improve-connectivity-ordinary-indians/
@@ -169,6 +172,7 @@ Allow: /united-states-america/
 Allow: /upi-was-free-now-what-changes-npcis-new-mdr-customers-wont-pay-directly-could-prices-go/
 Allow: /us-india-trade-deal-rubio-says-agreement-very-close-has-india-secured-better-terms/
 Allow: /us-pressures-india-over-russian-oil-how-new-delhi-responding/
+Allow: /uttarakhand/
 Allow: /verified/
 Allow: /viral-video-falsely-attributes-pakistani-commando-claim-indias-mea-spokesperson/
 Allow: /weather/
