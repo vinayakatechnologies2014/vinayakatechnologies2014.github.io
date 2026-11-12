@@ -124,6 +124,7 @@ Allow: /meta-report-child-safety-cases-directly-indias-cybercrime-portal/
 Allow: /moon/
 Allow: /movie/
 Allow: /nagaland/
+Allow: /namma-metro-pink-line-opening-ahead-karnataka-raises-centres-funding-share-development-milestone-or/
 Allow: /nasa-finds-new-222-metre-crater-moon-created-2024/
 Allow: /nepal/
 Allow: /niti-aayog-calls-karnataka-consider-second-bengaluru/
