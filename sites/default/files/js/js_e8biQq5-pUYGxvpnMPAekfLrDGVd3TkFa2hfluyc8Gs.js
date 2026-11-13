@@ -45,11 +45,15 @@ if(window.jQuery)jQuery.noConflict();document.documentElement.className+=' js';(
                 alt="">
             </div>
 
-            <h3 id="pb-listen-title"></h3>
+            <h3>Want to listen instead of reading?</h3>
+            <h3 id="pb-listen-title" class="hidden"></h3>
 
-            <p>
+            <!-- p>
               Would you like us to read this Buzz to you?
               Sit back and listen while the content is highlighted.
+            </p -->
+            <p>
+              Enjoy this Buzz in audio while the text highlights along with the narration.
             </p>
 
             <div class="pb-listen-modal-actions">
