@@ -121,6 +121,7 @@ Allow: /ladakh/
 Allow: /law/
 Allow: /lucknow/
 Allow: /major-ott-platform-planning-new-subscription-plan-india/
+Allow: /mandya-murder-case-man-spends-25-years-jail-after-lending-his-phone-victim-found-alive-who-will-give/
 Allow: /mea-says-pakistan-must-act-against-cross-border-terrorism-india-condemns-strikes-afghanistan/
 Allow: /meta-report-child-safety-cases-directly-indias-cybercrime-portal/
 Allow: /moon/
