@@ -189,5 +189,6 @@ Allow: /why-everyone-talking-about-bengalurus-next-big-technology-event/
 Allow: /why-us-pacific-command-commander-back-india-and-what-does-washington-need-new-delhi/
 Allow: /world/
 Allow: /yash-faces-backlash-over-dharmasthala-visit-sowjanya-activists-call-toxic-boycott/
+Allow: /yelahanka-murder-real-estate-businessman-charan-gowda-hacked-death-outside-office-police-probe/
 
 Sitemap: https://buzz.peoplesblog.co.in/sitemap.xml
