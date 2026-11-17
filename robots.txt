@@ -37,6 +37,7 @@ Allow: /bengalurus-one-ward-one-drive-why-does-routine-civic-work-need-special-c
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
 Allow: /cert-warns-ai-powered-cyberattacks-indian-financial-firms-how-hackers-are-exploiting-payment-systems/
+Allow: /chhattisgarh/
 Allow: /china/
 Allow: /coal-india-first-mines-its-role-countrys-energy-system-today/
 Allow: /contact-us/
@@ -166,6 +167,7 @@ Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investig
 Allow: /space/
 Allow: /starlink-debate-india-will-satellite-internet-improve-connectivity-ordinary-indians/
 Allow: /supreme-court-asks-central-government-explain-upi-charges-above-rs2000-does-not-stop-october-15/
+Allow: /supreme-court-awards-rs30-lakh-man-jailed-seven-years-after-acquittal-calls-law-compensate-wrongful/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
 Allow: /tamil-nadu/
