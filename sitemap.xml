@@ -842,6 +842,18 @@
   <priority>1.0</priority>
  </url>
  <url>
+  <loc>https://buzz.peoplesblog.co.in/who-un-report-hormone-disrupting-chemicals-raises-questions-about-indias-food-water-and-consumer/</loc>
+  <lastmod>2026-11-18T11:35:25+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/quad-summit-2026-india-usa-japan-and-australia-announce-new-initiatives-who-benefiting-most/</loc>
+  <lastmod>2026-11-18T12:02:16+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
   <loc>https://buzz.peoplesblog.co.in/about-us/</loc>
   <lastmod>2026-08-16T12:43:12+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -1144,6 +1156,24 @@
  <url>
   <loc>https://buzz.peoplesblog.co.in/chhattisgarh/</loc>
   <lastmod>2026-11-17T12:24:07+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/health/</loc>
+  <lastmod>2026-11-18T11:17:08+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/australia/</loc>
+  <lastmod>2026-11-18T11:43:22+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://buzz.peoplesblog.co.in/japan/</loc>
+  <lastmod>2026-11-18T11:43:22+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>
