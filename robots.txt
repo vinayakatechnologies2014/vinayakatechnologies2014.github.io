@@ -71,6 +71,7 @@ Allow: /fly91-orders-40-aircraft-why-indias-smaller-cities-are-becoming-next-avi
 Allow: /four-arrested-yelahanka-bengaluru-allegedly-forcing-13-children-beg/
 Allow: /france/
 Allow: /government/
+Allow: /greater-bengaluru-gets-five-police-commissioners-under-one-chief-what-changes-residents-gba-civic/
 Allow: /gsi-raises-concerns-about-bengalurus-hebbal-tunnel-and-lalbaghs-ancient-rock/
 Allow: /h-1b-families-are-allegedly-leaving-us-homes-and-cars-behind-what-actually-happening/
 Allow: /h-1b-families-leaving-us-has-risk-become-more-real-viral-claims/
@@ -166,6 +167,7 @@ Allow: /sowjanya-rape-murder-case-kusumavati-gowdas-legal-team-urges-karnataka-h
 Allow: /sowjanya-rape-murder-case-new-sit-chief-chetan-singh-rathore-meets-mother-kusumavathi-visits-crime/
 Allow: /sowjanya-rape-murder-case-reported-cm-d-k-shivakumar-sit-chief-n-shashi-kumar-meeting-triggers/
 Allow: /sowjanya-rape-murder-case-sit-investigating-officer-lokesh-jagalasar-leads-crime-scene/
+Allow: /sowjanya-rape-murder-case-sit-medical-board-re-examines-mannasanka-site-determine-where-crime-took/
 Allow: /sowjanya-rape-murder-case-sit-reportedly-lists-13-15-suspects-14-year-old-forensic-sample-sent-fresh/
 Allow: /sowjanya-rape-murder-case-supreme-court-points-missed-leads-and-investigation-gaps-need-fresh/
 Allow: /space/
