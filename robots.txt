@@ -37,6 +37,7 @@ Allow: /bengaluru-women-walked-after-9-pm-bigger-question-who-keeps-these-roads-
 Allow: /bengalurus-one-ward-one-drive-why-does-routine-civic-work-need-special-campaign/
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
+Allow: /cauvery-water-dispute-supreme-court-rejects-tamil-nadus-plea-seeking-11-tmc-water-karnataka/
 Allow: /cert-warns-ai-powered-cyberattacks-indian-financial-firms-how-hackers-are-exploiting-payment-systems/
 Allow: /chhattisgarh/
 Allow: /china/
