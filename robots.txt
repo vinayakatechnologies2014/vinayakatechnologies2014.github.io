@@ -123,6 +123,7 @@ Allow: /kpsc-scam-court-calls-it-systematic-fraud-how-deep-does-karnatakas-recru
 Allow: /kpsc-scam-election-level-security-november-15-exam-can-karnataka-government-restore-trust-after/
 Allow: /kpsc-scam-karnataka-high-court-justice-nagaprasanna-orders-fresh-sit-investigation-why-cm-d-k/
 Allow: /kpsc-scam-karnataka-high-court-reconstitutes-sit-names-adgp-r-hitendra-investigation-chief/
+Allow: /kpsc-scam-questions-remain-unanswered-commission-releases-provisional-results-319-gazetted/
 Allow: /kpsc-scam-supreme-court-modifies-high-courts-sit-order-after-karnataka-governments-plea-dig-alok/
 Allow: /kpsc-scam-supreme-court-strikes-down-law-validating-362-appointments-who-will-answer-15-years/
 Allow: /ladakh/
