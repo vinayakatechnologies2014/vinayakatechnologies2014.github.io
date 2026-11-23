@@ -35,6 +35,8 @@ Allow: /bengaluru-uses-ai-track-garbage-will-officials-clear-1000-black-spots-10
 Allow: /bengaluru-woman-loses-rs98000-while-seeking-refund-who-responsible-fake-customer-care-numbers/
 Allow: /bengaluru-women-walked-after-9-pm-bigger-question-who-keeps-these-roads-safe/
 Allow: /bengalurus-one-ward-one-drive-why-does-routine-civic-work-need-special-campaign/
+Allow: /bisleri-water-controversy-what-fssai-found-what-company-says-and-what-consumers-should-know/
+Allow: /bmtc-spare-parts-scam-2820-missing-components-fake-records-and-one-big-question-where-was-oversight/
 Allow: /brics-chief-justices-meet-india-what-could-come-out-three-day-forum/
 Allow: /business/
 Allow: /cauvery-water-dispute-supreme-court-rejects-tamil-nadus-plea-seeking-11-tmc-water-karnataka/
