@@ -58,6 +58,7 @@ Allow: /dk-shivakumar-protested-against-sir-delhi-where-was-he-when-bengaluru-pr
 Allow: /doddaballapur-farmers-protest-land-acquisition-should-karnataka-use-unused-industrial-land-taking/
 Allow: /does-karnataka-need-second-bengaluru-or-stronger-cities/
 Allow: /e20-petrol-controversy-are-karnatakas-leaders-fighting-motorists-or-turning-fuel-quality-dispute/
+Allow: /e20-petrol-controversy-iocl-gets-seven-days-explain-fuel-measurement-discrepancies-bengaluru/
 Allow: /earth-globe-so-why-are-we-still-fighting-over-map/
 Allow: /economy/
 Allow: /election-commission-defends-sir-supreme-court-what-does-it-mean-voters/
@@ -181,10 +182,12 @@ Allow: /starlink-debate-india-will-satellite-internet-improve-connectivity-ordin
 Allow: /supreme-court-asks-central-government-explain-upi-charges-above-rs2000-does-not-stop-october-15/
 Allow: /supreme-court-awards-rs30-lakh-man-jailed-seven-years-after-acquittal-calls-law-compensate-wrongful/
 Allow: /supreme-court-orders-fresh-investigation-sowjanya-rape-murder-case-after-14-years-sets-3-month/
+Allow: /supreme-court-orders-separate-red-warning-labels-packaged-foods-what-changes-indian-consumers-and/
 Allow: /supreme-court-signals-fresh-probe-sowjanya-case-questions-cbi-investigation/
 Allow: /tamil-nadu/
 Allow: /technology/
 Allow: /terms-conditions/
+Allow: /thiruparankundram-deepam-row-crpf-deployed-supreme-courts-deepathoon-order-triggers-fresh-tensions/
 Allow: /tirumala-karnataka-choultry-row-rs202-crore-project-land-history-and-proposed-kstdc-takeover/
 Allow: /tirumala/
 Allow: /united-kingdom/
